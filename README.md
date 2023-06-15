@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evangelos Geraridis</h1>
-<h3 align="center">a Mathematician and an aspiring Data Scientist</h3>
+<h3 align="center">a Mathematician 📈 and an aspiring Data Scientist 🖥️</h3>
 
 - 🔭 💻 I’m currently working on **Energy Disaggregation Data using machine learning and deep learning techniques**
 
