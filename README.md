@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Evangelos Geraridis</h1>
 <h3 align="center">a Mathematician and an aspiring Data Scientist</h3>
 
-- 🔭 I’m currently working on **Energy Disaggregation Data using machine learning and deep learning techniques**
+- 🔭 💻 I’m currently working on **Energy Disaggregation Data using machine learning and deep learning techniques**
 
-- 🌱 I’m currently learning **neural networks**
+- 🌱🔎 I’m currently learning **neural networks**
 
 - 📚📝 Curently studying at **the interdepartmental postgraduate study program Data Driven Computing and Decision Making, offered by the Computer Engineering and Informatics Department at University of Patras.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Evan451?tab=repositories](https://github.com/Evan451?tab=repositories)
 
-- 🔗🖇🌐 Connect with me [https://www.linkedin.com/in/evangelos-geraridis-0a0a3715b](https://www.linkedin.com/in/evangelos-geraridis-0a0a3715b)
-
-- 📫 How to reach me **vagelis451@gmail.com**
+- 🔗📮📩 How to reach me **vagelis451@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
