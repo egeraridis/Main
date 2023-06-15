@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **neural networks**
 
+- 📚📝 Curently studying at **the interdepartmental postgraduate study program Data Driven Computing and Decision Making, offered by the Computer Engineering and Informatics Department at University of Patras.**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Evan451?tab=repositories](https://github.com/Evan451?tab=repositories)
 
 - 🔗🖇🌐 Connect with me [https://www.linkedin.com/in/evangelos-geraridis-0a0a3715b](https://www.linkedin.com/in/evangelos-geraridis-0a0a3715b)
