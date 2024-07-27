@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/evangelos geraridis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evangelos geraridis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/evangelos-geraridis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evangelos geraridis" height="30" width="40" /></a>
 <a href="https://kaggle.com/evan geraridis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="evan geraridis" height="30" width="40" /></a>
 <a href="https://fb.com/vangelis geraridis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vangelis geraridis" height="30" width="40" /></a>
 </p>
