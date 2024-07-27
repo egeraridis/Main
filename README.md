@@ -3,7 +3,7 @@
 
 - 🔭 💻 I’m currently working on **Energy Disaggregation Data using machine and deep learning techniques**
 
-- 🌱🔎 As of 2024 I am developing my skills on **neural networks** and **webpage development**
+- 🌱🔎 As of 2024 I am developing my skills on **Machine Learning** and **Database Management**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Evan451?tab=repositories](https://github.com/Evan451?tab=repositories)
 
