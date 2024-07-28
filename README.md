@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7b36cb78-fefc-44c1-9086-58931cdf187b" alt="Description of image" width="800" height="300">
+</p>
 <h1 align="center">Hi 👋, I'm Evangelos Geraridis</h1>
 <h3 align="center">a Mathematician 📈 and an aspiring Data Scientist 🖥️</h3>
 
