@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/7b36cb78-fefc-44c1-9086-58931cdf187b" alt="Description of image" width="800" height="300">
 </p>
 <h1 align="center">Hi 👋, I'm Evangelos Geraridis</h1>
-<h3 align="center">a Mathematician 📈 and an aspiring Data Scientist 🖥️</h3>
+<h3 align="center">A Mathematician 📈 and an aspiring Data Scientist 🖥️</h3>
 
 - 🔭 💻 I’m currently working on **Energy Disaggregation Data using machine and deep learning techniques**
 
@@ -11,6 +11,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Evan451?tab=repositories](https://github.com/Evan451?tab=repositories)
 
 - 🔗📮📩 How to reach me **vagelis451@gmail.com**
+
+  <img src="https://github.com/user-attachments/assets/2c6f1e06-1dbf-4ee5-a018-fcf38b753667" width="300" height="200">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +23,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+
